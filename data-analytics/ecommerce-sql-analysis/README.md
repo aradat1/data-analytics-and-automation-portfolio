@@ -33,9 +33,9 @@ Includes KPI calculations, cohort analysis, funnel metrics, and insights for dec
 
 ## 📊 Visualizations
 
-![Monthly Revenue](assets/monthly_revenue.png)
-![Orders per Customer](assets/orders_per_customer.png)
-![Order Value Distribution](assets/aov_distribution.png)
+![Monthly Revenue](charts/monthly_revenue.png)
+![Orders per Customer](charts/orders_per_customer.png)
+![Order Value Distribution](charts/aov_distribution.png)
 
 ---
 
