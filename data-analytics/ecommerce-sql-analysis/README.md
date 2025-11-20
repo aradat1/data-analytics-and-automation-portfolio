@@ -20,6 +20,13 @@ Includes KPI calculations, cohort analysis, funnel metrics, and insights for dec
 - Cohort modeling
 - Funnel analysis logic
 
+## 📊 Visualizations
+
+![Monthly Revenue](assets/monthly_revenue.png)
+![Orders per Customer](assets/orders_per_customer.png)
+![Order Value Distribution](assets/aov_distribution.png)
+
+
 ## 🗂 Files in this project
 - `queries.sql` – All SQL queries used in the analysis  
 - `dataset/` – Sample dataset (CSV)  
