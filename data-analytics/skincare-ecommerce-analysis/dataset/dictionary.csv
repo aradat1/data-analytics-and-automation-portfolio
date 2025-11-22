@@ -1,0 +1,19 @@
+Row ID,Unique ID of the row
+Order ID,ID of the order (one order can have multiple items)
+Order Date,Date when order was made
+Customer ID,ID of the customer (one customer can make multiple orders)
+Segment,Customer segment 
+City,Order city
+State,Order state (where applicable)
+Country,Order country
+Country latitude,Geographic coordinates of the order country
+Country longitude,Geographic coordinates of the order country
+Region,Region to which the order belongs to
+Market,Market to which the order belongs to
+Subcategory,Product subcategory
+Category,Product category
+Product,Product name
+Quantity,Number of products purchased per order
+Sales,Total sales in $
+Discount,Discount applied to the order
+Profit,Total profit for each order after discount
