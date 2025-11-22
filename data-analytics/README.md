@@ -1,26 +1,11 @@
-# 🧴 Global Skincare E-Commerce — SQL Analytics Project
+# Data Analytics Projects
 
-This project analyzes a real-world skincare e-commerce dataset (51K rows) containing detailed product, category, sales, discount, and profit information.  
-Using SQL, I explored category performance, discount impact, customer behavior, anti-aging trends, profitability, and geographic insights.
+This folder contains SQL analyses, data exploration projects, funnels, cohorts, and business insights.
 
----
+🧠 **Process Overview**
 
-## 📦 Dataset Overview
-
-**Rows:** 51,290  
-**Columns:** 19  
-**Source:** Global Skincare & Beauty E-Store Dataset  
-**Formats:** data.csv + dictionary.csv
-
-**Key Columns:**
-- Order ID  
-- Order Date  
-- Customer ID  
-- Category / Subcategory  
-- Product  
-- Sales  
-- Profit  
-- Discount  
-- Country / Region / Market  
-
-Dataset path:  
+1. Loaded raw data into SQL database (PostgreSQL).  
+2. Performed exploratory queries to understand volume & ranges.  
+3. Built incremental CTE-based transformations.  
+4. Created retention, funnel, and product-level models.  
+5. Extracted insights and business recommendations.
