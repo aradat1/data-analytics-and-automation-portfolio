@@ -100,11 +100,37 @@ The analysis includes:
 
 ## 📈 Visualizations
 
-> Add PNG files to `assets/` then reference like this:
-
-```markdown
+### 1. Monthly Sales Over Time
+Shows the total sales trend across months, helping identify seasonality and growth patterns.  
 ![Monthly Sales](assets/monthly_sales.png)
+
+### 2. Sales by Category
+Displays revenue distribution across all product categories.  
 ![Sales by Category](assets/sales_by_category.png)
-![Profit vs Discount](assets/margin_by_discount.png)
+
+### 3. Profit Margin by Discount Bucket
+Illustrates how increasing discounts affect profit margin.  
+![Profit Margin by Discount Bucket](assets/margin_by_discount.png)
+
+### 4. Top 15 Best-Selling Products
+Ranked bar chart showing the top revenue-generating products in the store.  
+![Top 15 Products](assets/top15_products.png)
+
+### 5. Profit by Category
+Highlights which categories generate the highest and lowest profit.  
+![Profit by Category](assets/profit_by_category.png)
+
+### 6. Discount vs Profit (Scatterplot)
+Explores the relationship between discount levels and line-level profitability.  
+![Discount vs Profit](assets/discount_vs_profit.png)
+
+### 7. Anti-Aging vs Non Anti-Aging Sales
+Compares total sales volume between anti-aging products and all other products.  
+![Anti vs Non Anti-Aging](assets/anti_vs_non.png)
+
+### 8. Sales by Market
+Shows sales distribution across different markets/regions.  
+![Sales by Market](assets/sales_by_market.png)
+
 
 
